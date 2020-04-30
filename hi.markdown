@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Hello world page"
 permalink: /hi/
 ---
