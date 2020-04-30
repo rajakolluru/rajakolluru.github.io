@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: "Hello world page"
 permalink: /hi
 ---
 Hello world here
